@@ -1,4 +1,7 @@
 {
+  "ouban_proxy": https://tencent.douban.cmliussss.com
+  "downstream_proxy": https://tencent.douban.cmliussss.com
+  "image_proxy": https://tencent.douban.cmliussss.com
   "cache_time": 7200,
   "api_site": {
     "dyttzy": {
